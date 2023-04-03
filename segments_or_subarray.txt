@@ -1,0 +1,1 @@
+try to store information as dp[i] which contains answer till ith , ab ye mat soch ye kaise hoga bas itna soch ki dp[i+1] kaise calculate ho skta hai using dp[i] bas fir dp[0] ko initialise karde aur dp[i] = dp[i-1] + Something karde , done
