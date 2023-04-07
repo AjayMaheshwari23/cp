@@ -1,0 +1,1 @@
+1.) Number of bits = floor( log2(num) ) + 1 ;
