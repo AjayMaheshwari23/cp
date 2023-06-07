@@ -1,0 +1,2 @@
+1.) Select k consecutive from m consecutive is :: m+k-1  ( say p )
+2.) Select >=k consecutive from m consecutive is p*(p+1)/2 
