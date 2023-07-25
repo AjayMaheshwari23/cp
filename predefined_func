@@ -20,3 +20,11 @@ toupper('a')
 
 _ _ builtin _ popcount ( x )
 
+
+
+// ----------------------------
+
+To Sum up ::
+
+vector<int> v = {1,2,3,4};
+cout << reduce(all(v)) <<"\n";
