@@ -1,0 +1,4 @@
+TC for a dp problem is = TC ( one operation  )  *  #No.of.states 
+
+operation means calculating dp[i][j][].. from some other dp[i-1][][]...
+
