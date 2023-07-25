@@ -1,0 +1,22 @@
+// strchr  - To return pointer to the first occurence of given character in a Array Of characters (string) else returns NULL
+
+cout << ( strchr( "adjfbhfsd" , 'a'  ) != NULL  ) <<"\n;
+
+char *ptr = strchr("sdfadf" , 's' );
+
+OR
+
+char str[] = "dfsadf";
+auto ptr = strchr( str , 's' );
+cout<< ptr - str + 1 << "\n";
+
+// ----------------------------
+
+
+tolower('A')
+toupper('a')
+
+// ----------------------------
+
+_ _ builtin _ popcount ( x )
+
