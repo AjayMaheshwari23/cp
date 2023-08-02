@@ -28,3 +28,20 @@ To Sum up ::
 
 vector<int> v = {1,2,3,4};
 cout << reduce(all(v)) <<"\n";
+
+
+
+// ------------------
+
+To Convert given array into It's Prefix sum
+
+int v[n];
+partial_sum(v , v+n+1 , v); 
+
+
+To Store given array's prefix into some other 
+
+int p[n];
+partial_sum(v , v+n+1 , p);
+
+partial_sum(  start_iterator , ending_iterator , itreator_jahan_store_karna_hai  );
