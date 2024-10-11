@@ -73,4 +73,5 @@ int main()
 
 // Output : 1 
 
+/*  PQ's do not even work with full comparator so make sure to use MULTI-SET with full comparator */
 /* NOTE :: SAME ISSUE WITH PRIORITY QUEUE AND SINCE WE DO NOT HAVE MULT-PRIORITY-QUEUE MAKE SURE TO DEFINE THE COMPARATORE FULLY !!! */
